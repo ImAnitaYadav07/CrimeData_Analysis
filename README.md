@@ -1,4 +1,5 @@
-CrimeBanner.png
+<img src="CrimeBanner.png">
+
 captures_chrome-capture-2023-11-30.png
 # Crime Data Analysis
 
@@ -32,4 +33,6 @@ captures_chrome-capture-2023-11-30.png
 - 'Austria' has noticeably more People Involved(2644) .
 - The resolution rate for crime reached 70.04% as a result of authority efforts.
 - A significant portion, Accounting for 29.96% of crimes incidents lacks resolutions.
+
+  <img src="captures_chrome-capture-2023-11-30.png">
 
