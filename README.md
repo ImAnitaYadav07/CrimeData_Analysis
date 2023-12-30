@@ -1,4 +1,4 @@
-<img src="CrimeBanner.png">
+<img src="crimebanner.png">
 
 # Crime Data Analysis
 
